@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/tic-tac-toe"
+  },
+  "emulators": {
+    "functions": {
+      "port": 5001
+    }
+  }
+}
